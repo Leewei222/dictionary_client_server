@@ -1,3 +1,3 @@
-# dictionary_client_server
+# COMP90015 dictionary_client_server
 
 dictionary client-server using thread and socket with a swing GUI.
